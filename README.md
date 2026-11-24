@@ -50,3 +50,7 @@ START -> Read expenses and rates -> Convert each amount and add fee
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://multi-currency-travel-budget-leyjxra3n2zftcvwycdlhf.streamlit.app/
